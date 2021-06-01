@@ -1,0 +1,30 @@
+{
+  "name": "goit-node-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeoniss/goit-node-hw-1.git"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "zeoniss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeoniss/goit-node-hw-1/issues"
+  },
+  "homepage": "https://github.com/zeoniss/goit-node-hw-1#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
